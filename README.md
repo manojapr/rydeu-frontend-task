@@ -9,4 +9,14 @@ Feature:
       1. Date
       2. first name
       3. Last name
-      3 
+      4. Starting from
+      5. Destination
+      6. car type
+      6. flight details (use some validaation and api for better ux)
+      8. no. of passengers
+    5. Save button will save the event and confirm button will save the trip
+    6. Draft button will show the trips planned and can be open for edit.
+    7 left side bar will habe a create trip which opens a modal with trip name and start and end date. after confirming it will render the empty tempate with date sequence.
+    
+      
+      
