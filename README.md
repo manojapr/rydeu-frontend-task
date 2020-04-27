@@ -22,6 +22,7 @@ Project Expectation -
 4. The design should be mobile responsive
 5. Brownie points for using Redux
 
+Use the below designs for reference -
 
 ![Design_MainSection](https://github.com/manojapr/rydeu-frontend-task/blob/master/Design_MainSection.png)
 ![Design_TransferEvent](https://github.com/manojapr/rydeu-frontend-task/blob/master/Design_TransferEvent.png)
