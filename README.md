@@ -1,4 +1,4 @@
-# rydeu-frontend-task (Completion Date 28-Apr-2020)
+# rydeu-frontend-task (Completion Date 29-Apr-2020)
 Build a trip planner prototype, which provides an interface to plan a customized trip
 
 Feature:
