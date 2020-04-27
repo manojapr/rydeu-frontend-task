@@ -23,7 +23,8 @@ Project Expectation -
 5. Brownie points for using Redux
 
 
-
+![Design_MainSection](https://github.com/manojapr/rydeu-frontend-task/blob/master/Design_MainSection.png)
+![Design_TransferEvent](https://github.com/manojapr/rydeu-frontend-task/blob/master/Design_TransferEvent.png)
 
     
       
