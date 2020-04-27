@@ -1,22 +1,30 @@
-# rydeu-frontend-task
-Build a Dashboard for trip planning which provide a interface to plan a customized trip
+# rydeu-frontend-task (Completion Date 28-Apr-2020)
+Build a trip planner prototype, which provides an interface to plan a customized trip
 
 Feature:
-1. The page (can call it Dashboard) will have 3 sections. (Left sidebar, Centre section & Right side bar)
-2. Left sidebar will have Create trip button. few sections based on trip states i.e. Draft, Confirmed and completed.
-3. Clicking on Create trip should open a modal with trip name and start and end date. Saving this should render the empty template with date sequence on the center panel.
-4. Right most side bar will have the tool kit to plan the event. ('Add Transfer' button will create a transfer event from A to B)
-5. clicking on add transfer will render the create transfer event in middle section of the dashboard
-6. Transfer event will have below input fields
-    * Pickup location & Drop location
+1. The page will have a "Create Transfer" button and a main section where the transfers will be added day wise.
+2. Clicking on Create transfer should open a modal with below input fields
+    * Pickup location & Drop location (suggestion should be shown through Google API)
     * Date and time of travel
     * first name
     * Last name
-    * Vehicle type
-    * flight details (use some validation and api for better UX)
+    * Vehicle type and count (Should be a dropdown with multiple vehicle options)
     * no. of passengers & baggage count
-    * Save button will save the event and confirm button will save the trip
-7. On the left bar, Draft section will show the trips planned and there should be an option to edit a trip.
+    * Save button will save the event in the main section with the filled details visible in the page.
+3. A user can add multiple transfer events and they should be assembled in the page as per the date and time.
+4. There should be an option to edit and delete an already added event.
+
+
+Project Expectation - 
+1. The project should be built using React
+2. Use Google Api for suggestion and selection of pickup/drop locations.
+3. do not use any CSS framework (bootstrap, semantic etc). SCSS can be used.
+4. The design should be mobile responsive
+5. Brownie points for using Redux
+
+
+
+
     
       
       
